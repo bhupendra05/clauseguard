@@ -1,0 +1,30 @@
+MUTUAL NON-DISCLOSURE AND SERVICES AGREEMENT
+
+This Agreement is entered into between Acme Corp ("Company") and the Vendor.
+
+1. TERM. This Agreement is effective as of the Effective Date and shall remain in force
+for two (2) years, and shall automatically renew for successive one-year terms unless
+terminated by the Company.
+
+2. CONFIDENTIALITY. Each party shall keep confidential all non-public information disclosed
+under this Agreement. The confidentiality obligations shall survive in perpetuity.
+
+3. INTELLECTUAL PROPERTY. The Vendor hereby assigns all right, title and interest in any and
+all work product to the Company, and all deliverables shall be deemed work made for hire.
+
+4. INDEMNIFICATION. The Vendor shall indemnify and hold harmless the Company from any and all
+claims, losses, and liabilities arising out of or relating to the services.
+
+5. LIABILITY. The Vendor shall bear unlimited liability for any breach of this Agreement.
+
+6. NON-COMPETE. During the term and for three (3) years thereafter, the Vendor shall not
+compete with the Company in any market in which the Company operates.
+
+7. EXCLUSIVITY. The Vendor shall act as the exclusive provider of such services to the Company
+and shall not provide similar services to any competitor of the Company.
+
+8. TERMINATION. The Company may terminate this Agreement at any time at its sole discretion,
+with or without cause.
+
+9. GOVERNING LAW. This Agreement shall be governed by the laws of the State of Delaware, and
+any dispute shall be resolved by binding arbitration.
